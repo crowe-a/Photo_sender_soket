@@ -1,0 +1,8 @@
+Hasarli, 33.987, 67.845, 43.547, panel 1.png
+Hasarli, 21.785, 45.120, 17.657, panel 2.png
+Hasarli, 98.457, 76.045, 14.587, panel 3.png
+Hasarli, 74.725, 20.200, 65.967, panel 4.png
+Hasarli, 14.145, 21.730, 42.496, panel 1.png
+Hasarli, 75.434, 72.752, 78.858, panel 2.png
+Hasarli, 89.472, 88.365, 89.420, panel 3.png
+Hasarli, 31.250, 43.102, 54.545, panel 4.png
